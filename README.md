@@ -1,9 +1,6 @@
-# hello world
-nhblshbchs,a
-nshvagcnfcx
-chncnfnfxxftg
+# Yifan Introduction
 
-# welcome to london
-# welcome to england
-https://github.com/FitzwilliamMuseum
-The link is the address of FitzwilliamMuseum Github.
+My name is Yifan Jiang. I'm a master student of MSc Data Science for Cultural Heritage.
+I come from China. I was born in Nantong City, Jiangsu Province and live in Shanghai.
+I got my BEng degree in Civil Engineering from the University of Edinburgh. To be frank,
+the weather in Edinburgh is much better to that in London.
